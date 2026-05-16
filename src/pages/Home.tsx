@@ -7,7 +7,7 @@ const Home = () => {
             strings: [
                 "Géomaticien",
                 "Analyste de données spatiales",
-                "Chercheur en épidémiologie spatiale",
+                "Développeur Backend Python/Django",
             ],
             typeSpeed: 60,
             backSpeed: 40,
@@ -69,11 +69,7 @@ const Home = () => {
                     data-aos-delay="450"
                 >
                     <p style={{ maxWidth: "600px" }}>
-                        I use geospatial technologies, data analysis and modeling to
-                        understand environmental and health dynamics in urban areas.
-                        My work focuses on spatial risk mapping, data-driven decision
-                        support and the study of vector-borne diseases such as malaria
-                        and dengue.
+                        Développeur Backend Python/Django et Géomaticien Junior basé en Côte d'Ivoire. Passionné par la conception d'API REST robustes, l'analyse de données spatiales et le développement IA/Machine Learning. Je combine expertise technique et vision géographique pour construire des solutions innovantes.
                     </p>
                 </div>
 

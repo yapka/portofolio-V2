@@ -2,14 +2,13 @@ import React from 'react';
 
 const Header: React.FC = () => (
     <header className="navigation horizontal_header transparentOnScroll navbar navbar-expand-lg fixed-top">
-
         <div className="header-ins">
             <div className="container">
-
+               
                 <div className="site-logo">
                     <a href="#" className="hoveroff" title="">
-
-                    Nathanael<span>K</span>
+                   <img src="" alt=""></img>
+                            Rect<span>CV</span>
                     </a>
                 </div>
                 <button className="button-toggler navbar-toggler collapsed" type="button" data-target="#navigation" data-toggle="collapse" aria-controls="navigation" aria-expanded="false">
@@ -17,7 +16,7 @@ const Header: React.FC = () => (
                     <span></span>
                     <span></span>
                 </button>
-
+              
                 <ul className="justify-content-end scrollspy collapse navbar-collapse" id="navigation">
                     <li>
                         <a href="#home" className="nav-link">Home</a>
@@ -41,10 +40,11 @@ const Header: React.FC = () => (
                         <a href="#contact" className="nav-link">Contact</a>
                     </li>
                 </ul>
-
+            
 
             </div>
         </div>
+
     </header>
 );
 
